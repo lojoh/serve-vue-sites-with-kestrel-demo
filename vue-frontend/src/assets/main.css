@@ -1,0 +1,8 @@
+@import "./base.css";
+@import "./colors.css";
+@import "./labels.css";
+
+#app {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}

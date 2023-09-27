@@ -1,0 +1,21 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.json",
+  "files": [
+    "src/views/Categories.vue",
+    "src/views/Constructions.vue",
+    "src/views/Favorites.vue",
+    "src/views/History.vue"
+  ],
+  "include": ["src/env.d.ts", "src/**/*", "src/**/*.vue", "src/data/*.json"],
+  "exclude": ["src/**/__tests__/*"],
+  "compilerOptions": {
+    "composite": true,
+    "ignoreDeprecations": "5.0",
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": ["vite/client"]
+  }
+}

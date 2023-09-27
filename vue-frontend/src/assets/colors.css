@@ -1,0 +1,23 @@
+:root {
+  /* Började göra generiska css variabler */
+  --color-background: rgb(255, 255, 255);
+  --color-background-accent: #faf9f9;
+
+  --color-primary: #337ab7;
+  --color-primary-alt: #2c689c;
+  --color-primary-shade: #2e6da4;
+  --color-primary-disabled: #8fb8db;
+  --color-primary-disabled-shade: #7ca4c7;
+
+  --color-red: #d9534f;
+  --color-red-shade: #d43f3a;
+  --color-red-darken: #a53e3b;
+
+  --color-orange: #f0ad4e;
+  --color-orange-darken: #c0893c;
+
+  --color-modal-warning: #fcf8e3;
+
+  --color-light-grey: #ccc;
+  --color-grey: gray;
+}

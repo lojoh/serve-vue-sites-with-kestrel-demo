@@ -1,0 +1,12 @@
+# dependencies
+/src/node_modules
+/node_modules
+
+# testing
+/coverage
+/test
+/test-results
+
+# production
+
+# misc

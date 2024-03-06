@@ -1,6 +1,6 @@
-# serve vue with kestrel
+# General
 
-Demo on how to serve Vue content sites with Kestrel. Using the built-in router in razor pages.
+This is a demo on how to serve Vue content sites with Kestrel. Using the built-in router in razor pages.
 
 ## How does it work?
 

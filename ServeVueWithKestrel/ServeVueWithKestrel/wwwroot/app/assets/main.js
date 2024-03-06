@@ -1,1 +1,1 @@
-import{_ as c,o as e,c as n,a as p}from"./_plugin-vue_export-helper.js";const o={};function t(s,_){return e(),n("div",null,"App.vue")}const a=c(o,[["render",t]]),r=p(a);r.mount("#app");
+import{_ as e,o as c,c as o,a as n}from"./_plugin-vue_export-helper.js";const p={};function r(s,_){return c(),o("div",null,"Hello world from App.vue")}const t=e(p,[["render",r]]),a=n(t);a.mount("#app");

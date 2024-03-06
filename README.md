@@ -4,7 +4,7 @@ Demo on how to serve Vue content sites with Kestrel. Using the built-in router i
 
 ## How does it work?
 
-The command `npm run watch` builds the vue app and copies the files to the `wwwroot` folder. The `wwwroot` folder is served by Kestrel. The `index.html` file is served by razor pages. The `index.html` file is the entry point for the Vue app.
+The command `npm run watch` builds the vue app and copies the files to the `wwwroot` folder.
 
 On every change in the vue code the `npm run watch` command will rebuild the app and copy the files to the `wwwroot` folder. The browser will automatically reload the page.
 
